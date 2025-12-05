@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ikeerschzz
-- 👀 I’m interested in Python related programming and I'm gonna be a Software Engineer. Actually studying 2ºbach.
+- 👀 I’m interested in Python related programming and I'm gonna be an innoving programmer. Actually studying 2ºbach.
 - 📫 If you want to talk with me, send an email to: sanchezayusoiker@gmail.com
 
 <!---
